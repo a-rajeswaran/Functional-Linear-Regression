@@ -1,5 +1,5 @@
 # Functional-Linear-Regression
-Research work on the application of functional linear regression as a variational problem and some applications in climate data
+Research work on the application of functional linear regression as a variational problem and some applications to climate data
 
 
 # Main Approach (Part 4, Morris):
