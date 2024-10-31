@@ -2,7 +2,8 @@
 Research work on the application of functional linear regression as a variational problem and some applications in climate data
 
 
-# Main Approach (Part 4, Morris): Dimensionality reduction of the problem (a regression in finite dimensions) by projecting onto a family of orthogonal functions (Karhunen-Loève expansion), similar to principal component regression, Fourier, wavelets, signatures [2], or splines [1].
+# Main Approach (Part 4, Morris):
+Dimensionality reduction of the problem (a regression in finite dimensions) by projecting onto a family of orthogonal functions (Karhunen-Loève expansion), similar to principal component regression, Fourier, wavelets, signatures [2], or splines [1].
 
 Regularization is applied in two ways: by truncating a basis of functions used in the Karhunen-Loève expansion, or by penalizing (OLS with added penalty, as in Lasso or ridge/Tikhonov).
 
